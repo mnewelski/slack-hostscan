@@ -7,7 +7,7 @@ Example output:
 
 ![scan.sh output](./img/scan.png)
 
-Scan `/etc/hosts` for the same as above but output a list with updated IPs (if needed) in a format that can be copied and pasted back to `/etc/hosts`:
+Scan `/etc/hosts` for the same but output a list with updated IPs (if needed) in a format that can be copied and pasted back to `/etc/hosts`:
 
     ./update.sh
 
